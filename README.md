@@ -1,8 +1,15 @@
 Links to interesting stuff
-==========================
+=
 https://github.com/rsp/links
 -
-Mostly for myself but if it's of interest to anyone else - enjoy.
+Various links put in one place,
+mostly for myself but if it's of interest to anyone else - enjoy.
+
+Libraries
+-
+### musl libc
+https://www.musl-libc.org/
+"a new standard library to power a new generation of Linux-based devices. musl is lightweight, fast, simple, free, and strives to be correct in the sense of standards-conformance and safety."
 
 Issues
 ------
